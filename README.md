@@ -43,7 +43,6 @@ designing **RAG pipelines**, and enhancing backend intelligence with tools like 
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyenkiettuan1&layout=compact&theme=tokyonight)  
 ![Profile Views](https://komarev.com/ghpvc/?username=Nguyenkiettuan1&label=Profile%20Views&color=blue&style=flat)  
 
 ---
